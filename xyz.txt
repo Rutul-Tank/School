@@ -1,4 +1,4 @@
-Hiii We are going to open new school. Th ename of the school will be xyz school.
+Hiii We are going to open new school. Th name of the school will be xyz school.
 
 We are currently available for std 1-8.
 
@@ -8,6 +8,18 @@ Maths
 EVS
 English
 Hindi
+
+
+
+We are happy to announce that we are going to available for std 9-12 as well.
+
+The subject will be:
+Maths
+Science
+English
+Hindi
+Gujarati
+Computer
 
 
 
